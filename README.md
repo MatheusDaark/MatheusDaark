@@ -5,8 +5,8 @@
 
 <div>
     <a href="https://github.com/MatheusDaark">
-    <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=MatheusDaark&show_icons=true&theme=synthwave&include_all_commits=true&count_private"/>
-    <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusDaark&layout=compact&langs_count=16&theme=radical"/>
+    <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=MatheusDaark&show_icons=true&theme=synthwave&include_all_commits=true&count_private&custom_title=Matheusz+GitStats+🐾&text_bold=true"/>
+    <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusDaark&layout=compact&langs_count=16&theme=radical&custom_title=Linguagens+mais+utilizadas+😎"/>
 </div>
     
 <div style="display: inline_block"><br>
