@@ -20,5 +20,5 @@
 ##
 <a href="https://discord.com/users/313400012199690253" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
     
-    
+### Assista meu gráfico de contribuição sendo devorado pela 🐍
 ![MatheusDaark snake gif](https://github.com/MatheusDaark/MatheusDaark/blob/output/github-contribution-grid-snake.svg)
