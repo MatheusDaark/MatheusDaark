@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Matheus
 
-- 🌱 Estudando Javascript, Java, Python, HTML e CSS3
+- 🌱 Estudando Javascript, Java, Python, HTML5 e CSS3
 - 😄 Pronomes: Ele/Dele
 
 <div>
